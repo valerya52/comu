@@ -4,16 +4,26 @@
 @import "base/variables";
 @import "base/mixins";
 
-
-
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
 }
 
+body {
+  background: #F5F5F5;
+}
+
 .container {
   width: 1140px;
   margin: 0 auto;
+  position: relative;
 }
 
+
+@import "blocks/header";
+@import "blocks/cards";
+@import "blocks/describe";
+@import "blocks/benefits";
+@import "blocks/slogan";
+@import "blocks/app-btns";

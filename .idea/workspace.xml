@@ -1,16 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="change index.html">
+      <change afterPath="$PROJECT_DIR$/dist/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ractangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/rectangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ractangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/app-btns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/benefits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/describe.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/slogan.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/Easy Integration.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/Easy Integration.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/app store.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/app store.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/buy-appstore-small-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/buy-appstore-small-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/buy-google-small-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/buy-google-small-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/done.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/done.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/goole play.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/goole play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/main-pic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/main-pic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/message.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/message.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/mobile-screens.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/mobile-screens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/movie.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/movie.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/pad.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/pad.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/ractangle-top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/ractangle-top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/screens.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/screens.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/shield.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/shield.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/smile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/smile.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/social-world.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/social-world.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/verification.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/verification.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/woman.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/woman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/base/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/base/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,8 +77,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/img" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/img" />
+      <recent name="$PROJECT_DIR$/src/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,7 +98,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667876903117</updated>
       <workItem from="1667876904335" duration="527000" />
+      <workItem from="1667877817084" duration="238000" />
+      <workItem from="1667927056074" duration="8440000" />
+      <workItem from="1668099858074" duration="19026000" />
     </task>
+    <task id="LOCAL-00001" summary="change index.html">
+      <created>1667877928913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667877928913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -53,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="change index.html" />
   </component>
 </project>
