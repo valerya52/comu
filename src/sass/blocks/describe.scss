@@ -29,4 +29,13 @@
       font-size: 17px;
     }
   }
+  &_noads {
+    .describe__item {
+      padding-top: 40px;
+      margin-left: 60px;
+    }
+    .describe_img {
+      padding-left: 50px;
+    }
+  }
 }
