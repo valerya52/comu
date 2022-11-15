@@ -1,8 +1,8 @@
 @import "libs/bootstrap-reboot.min";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
-
 @import "base/variables";
 @import "base/mixins";
+@import "node_modules/animate.css/animate";
 
 * {
   font-family: "Poppins", sans-serif;
@@ -29,3 +29,6 @@ body {
 @import "blocks/app-btns";
 @import "blocks/action";
 @import "blocks/statistic";
+@import "blocks/questions";
+@import "blocks/input";
+@import "blocks/footer";

@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Added blocks &quot;Header&quot;, &quot;Cards&quot;, &quot;Benefits&quot;, &quot;Describe&quot;, &quot;Slogan&quot;">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/action.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/statistic.scss" afterDir="false" />
+    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Added new blocks">
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/questions.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/girl.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/img/girl.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/benefits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/benefits.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/describe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/describe.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
     </list>
@@ -74,7 +73,8 @@
       <workItem from="1667877817084" duration="238000" />
       <workItem from="1667927056074" duration="8440000" />
       <workItem from="1668099858074" duration="26259000" />
-      <workItem from="1668434146952" duration="8860000" />
+      <workItem from="1668434146952" duration="9834000" />
+      <workItem from="1668464382694" duration="12589000" />
     </task>
     <task id="LOCAL-00001" summary="change index.html">
       <created>1667877928913</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668131238703</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new blocks">
+      <created>1668450553658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668450553658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change index.html" />
     <MESSAGE value="Added blocks &quot;Header&quot;, &quot;Cards&quot;, &quot;Benefits&quot;, &quot;Describe&quot;, &quot;Slogan&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added blocks &quot;Header&quot;, &quot;Cards&quot;, &quot;Benefits&quot;, &quot;Describe&quot;, &quot;Slogan&quot;" />
+    <MESSAGE value="Added new blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new blocks" />
   </component>
 </project>
