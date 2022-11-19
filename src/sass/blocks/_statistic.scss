@@ -1,0 +1,46 @@
+.statistic {
+  &__wrapper {
+    background: linear-gradient(102.02deg, #F7E6CB 0%, #F5F2EB 100%);
+    box-shadow: 15px 15px 26px #DD8762;
+    border-radius: 44px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    padding: 56px 155px 66px;
+  }
+  &__img {
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+  }
+  &__item {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    width: 460px;
+  }
+  &__downloads {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    p {
+      margin-top: -10px;
+      font-weight: 500;
+      font-size: 15px;
+    }
+  }
+  &__rating {
+    text-align: center;
+    p {
+      font-weight: 500;
+      font-size: 15px;
+      &:first-child {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 54px;
+        margin-bottom: -15px;
+      }
+    }
+  }
+}

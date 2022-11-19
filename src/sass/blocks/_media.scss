@@ -1,0 +1,630 @@
+@media (max-width: 1439px) {
+  .top {
+    width: 100%;
+  }
+
+  .cards__item {
+    width: 310px;
+  }
+  .input-width {
+    margin-top: -36px;
+  }
+  .input input {
+    width: 89%;
+    margin-left: 20px;
+  }
+  .cards__item {
+    margin-left: 30px;
+  }
+  .benefits__wrapper_stories {
+    padding: 40px 196px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container {
+    width: 992px;
+  }
+
+  .top .container {
+    padding: 34px 40px 0;
+  }
+
+  .benefits__wrapper {
+    padding: 60px 46px;
+    margin: 0 20px;
+  }
+  .cards__item {
+    width: 313px;
+  }
+
+  .cards__wrapper {
+    justify-content: space-around;
+    padding-right: 25px;
+  }
+  .benefits__wrapper_stories {
+    text-align: center;
+  }
+  .input__btn {
+    right: 13px;
+  }
+  .top__base-wrapper {
+    padding-bottom: 100px;
+    margin-top: -50px;
+  }
+  .input-width {
+    margin-top: -36px;
+  }
+
+  .describe .container {
+    padding: 0 20px;
+  }
+  .describe_noads .describe_img {
+    width: 55%;
+    height: 60%;
+  }
+  .statistic__wrapper {
+    margin: 0 30px;
+    padding: 48px 70px 56px;
+  }
+
+  .questions__wrapper {
+    padding: 0 20px;
+  }
+
+  .input input {
+    width: 96%;
+    margin-left: 20px;
+  }
+  .cards__item {
+    width: 299px;
+    height: auto;
+  }
+  .done {
+      height: 100%;
+      width: 320px;
+      padding-top: 93px;
+  }
+  .benefits__wrapper {
+    padding: 25px 46px;
+  }
+  .describe_noads .describe_img {
+    margin-top: 80px;
+  }
+  .describe_noads .describe_img {
+    padding-right: 20px;
+  }
+  .describe__item h2 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 992px) {
+  .container {
+    width: 768px;
+  }
+
+  .top__img {
+    width: 300px;
+  }
+  .top__content {
+    padding-top: 115px;
+  }
+  .top__content h1 {
+    font-size: 26px;
+  }
+  .top__content p {
+    font-size: 14px;
+  }
+  .cards__item {
+    width: 230px;
+    height: auto;
+    padding: 15px;
+  }
+  .describe img {
+    width: 300px;
+    height: 100%;
+    padding: 65px 10px 0 0;
+  }
+  .describe__item h2 {
+    font-size: 25px;
+  }
+  .benefits__wrapper {
+    padding: 4px 0 0;
+
+    img {
+      width: 315px;
+    }
+  }
+  .benefits {
+    padding-top: 130px;
+  }
+  .benefits__item img {
+    width: 50px;
+    height: 65%;
+  }
+  .benefits__items {
+    width: 360px;
+    padding-left: 10px;
+  }
+  .app-btns {
+    a {
+      img {
+        width: 150px;
+        margin-top: -90px;
+      }
+    }
+  }
+  .describe {
+    padding-top: 25px;
+  }
+  .describe img {
+    padding: 106px 10px 0 0;
+  }
+
+  .benefits__wrapper {
+    .done {
+      width: 250px;
+    }
+  }
+  .benefits__item h4 {
+    font-size: 30px;
+  }
+  .benefits__block_img {
+    img {
+      width: auto;
+    }
+  }
+  .benefits__item h4 {
+    width: 431px;
+  }
+  .benefits__wrapper .done {
+    padding-right: 24px;
+    padding-top: 138px;
+    right: 0;
+  }
+  .action {
+    img {
+      width: 100%;
+    }
+  }
+  .benefits__item h4 {
+    width: 100%;
+  }
+  .benefits__items {
+    width: 100%;
+  }
+  .benefits {
+    padding-top: 80px;
+  }
+  .describe_noads .describe_img {
+    width: 45%;
+  }
+  .describe__item_edit {
+    p {
+      font-size: 14px;
+    }
+  }
+  .describe_noads .describe_img {
+    margin-top: 37px;
+  }
+  .describe__img-girl {
+    margin-top: -50px;
+  }
+  .statistic__item {
+    font-size: 23px;
+    width: 400px;
+    padding-right: 16px;
+  }
+  .statistic__downloads {
+    font-size: 45px;
+  }
+  .statistic__rating p:first-child {
+    font-size: 43px;
+  }
+  .footer__info {
+    width: 215px;
+    padding-right: 42px;
+  }
+
+  .footer__info p {
+    width: 100%;
+  }
+  .footer__left-wrapper {
+    column-gap: 20px;
+  }
+  .app-btns a img {
+    width: 70px;
+  }
+  .app-btns a img {
+    margin-top: 10px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .container {
+    width: 576px;
+    padding: 20px 10px 0;
+  }
+  .top__wrapper img {
+      width: 85px;
+  }
+  .top__nav ul li {
+    padding: 0px 5px;
+  }
+  .top .container {
+    padding: 20px 10px 0;
+  }
+  .top__img {
+    width: 206px;
+  }
+  .top__content h1 {
+    font-size: 25px;
+  }
+  .top__more {
+    width: 117px;
+    font-size: 13px;
+  }
+  .top__btn-wrapper a {
+    font-size: 13px;
+  }
+  .top__content p {
+    font-size: 12px;
+  }
+  .cards__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .cards__item {
+    width: 346px;
+    margin: 30px;
+    height: auto;
+    padding: 15px;
+  }
+  .cards {
+    padding-top: 25px;
+  }
+  .describe img {
+    width: 200px;
+  }
+  .describe__item h2 {
+    font-size: 20px;
+  }
+  .describe__item p {
+    font-size: 14px;
+  }
+  .describe img {
+    padding: 78px 10px 0 0;
+  }
+  .describe {
+    padding-top: 25px;
+  }
+  .benefits__wrapper img {
+    width: 200px;
+  }
+  .benefits__item p {
+    font-size: 13px;
+  }
+  .benefits__item img {
+    width: 30px;
+  }
+  .benefits {
+    padding-top: 60px;
+  }
+  .slogan__wrapper h3 {
+    font-size: 32px;
+  }
+  .slogan__wrapper p {
+    font-size: 14px;
+  }
+  .app-btns a img {
+    margin-top: -75px;
+  }
+  .describe__item h5:first-of-type {
+    padding-top: 74px;
+  }
+  .describe__item {
+    h5 {
+      font-size: 17px;
+    }
+  }
+  .describe__item p {
+    font-size: 13px;
+  }
+  .app-btns a img {
+    width: 130px;
+  }
+  .benefits__block_img img {
+    width: 20px;
+  }
+  .benefits__block {
+    width: 270px;
+  }
+  .benefits__wrapper .done {
+    width: 198px;
+  }
+  .benefits__wrapper .done {
+    padding-right: 30px;
+    padding-top: 208px;
+    right: 42px;
+    position: relative;
+  }
+  .benefits__items {
+    padding-top: 19px;
+  }
+  .benefits__wrapper .done {
+    right: 0;
+  }
+  .benefits__item h4 {
+    font-size: 28px;
+  }
+  .describe_noads .describe_img {
+    padding-right: 0;
+    margin-top: 40px;
+  }
+  .describe_noads {
+    .describe__item {
+     margin-left: 0;
+      p {
+        font-size: 12px;
+      }
+    }
+  }
+  .statistic__wrapper {
+    padding: 0;
+    margin: 0;
+  }
+  .statistic__img {
+    width: 60%;
+  }
+  .statistic__item {
+    padding-right: 16px;
+    padding-left: 20px;
+    font-size: 15px;
+    width: 215px;
+  }
+  .statistic__downloads {
+    font-size: 35px;
+    width: 141px;
+  }
+  .statistic__rating p:first-child {
+    font-size: 35px;
+  }
+  .statistic__rating {
+    padding-right: 24px;
+  }
+  .footer__wrapper {
+    display: block;
+  }
+  .footer__info {
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  .app-btns {
+    display: none;
+  }
+  .input input {
+    width: 98%;
+    margin: 0;
+  }
+  .footer__bottom_margin {
+      height: 85px;
+  }
+  .footer .container p {
+    font-size: 10px;
+  }
+  .footer__wrapper-bottom {
+    display: block;
+    font-size: 10px;
+  }
+  .footer__social-links {
+    width: 260px;
+  }
+}
+
+@media (max-width: 576px) {
+  .container {
+    width: 320px;
+  }
+  .top__nav {
+    display: none;
+  }
+  .top__wrapper {
+    display: block;
+  }
+  .top__base-wrapper {
+    display: block;
+
+    .top__img {
+      position: relative;
+      transform: translateX(-50%);
+      left: 50%;
+    }
+  }
+  .top__content {
+    width: 100%;
+    padding-left: 10px;
+  }
+  .cards__wrapper {
+    padding-right: 0;
+  }
+  .describe .container {
+    display: block;
+  }
+  .describe img {
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+    padding: 50px 0 0 0;
+    width: 100%;
+  }
+  .describe__item {
+    width: auto;
+  }
+  .top .container {
+    padding: 10px 0 0;
+  }
+
+  .top__content h1 {
+    font-size: 20px;
+  }
+  .benefits__wrapper {
+    display: block;
+  }
+  .benefits__items {
+    width: 225px;
+  }
+  .benefits__item h6 {
+    font-size: 13px;
+  }
+  .benefits__item p {
+    font-size: 12px;
+  }
+  .benefits__wrapper .woman {
+    transform: translateX(-50%);
+    left: 50%;
+    position: relative;
+    padding: 20px 0;
+  }
+  .slogan__wrapper h3 {
+    font-size: 28px;
+  }
+  .app-btns {
+    margin-top: 60px;
+    margin-left: -46%;
+
+    a img {
+      width: 108px;
+      padding: 0;
+    }
+  }
+  .benefits__item h4 {
+    width: 216px;
+  }
+  .benefits__block {
+    width: 216px;
+  }
+  .benefits__block p {
+    font-size: 12px;
+  }
+  .benefits__wrapper .done {
+    right: 0;
+    width: 100%;
+    padding: 10px 30px 30px;
+  }
+  .benefits__item h4 {
+    font-size: 19px;
+  }
+  .slogan {
+    button {
+      margin-top: 17px;
+    }
+  }
+  .benefits {
+    padding-top: 40px;
+  }
+  .describe_noads .describe_img {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .slogan {
+    padding-top: 60px;
+  }
+  .statistic__wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 30px;
+  }
+  .statistic__rating {
+    padding: 0;
+  }
+  .statistic__downloads {
+    padding: 20px 0;
+  }
+  .questions__wrapper {
+    display: block;
+    padding: 0;
+  }
+  .questions__wrapper div {
+    width: 100%;
+  }
+  .input input {
+    width: 95%;
+    margin: -20px 0 0 0;
+
+    &::placeholder {
+      font-size: 14px;
+    }
+  }
+  .input__btn {
+    right: 0;
+    width: 70px;
+    font-size: 14px;
+    bottom: 0;
+  }
+  .slogan__wrapper h3 {
+    font-size: 23px;
+  }
+  .questions_title {
+    margin: -50px 0 0px;
+  }
+  .footer__wrapper {
+    padding-top: 40px;
+    padding-left: 0;
+  }
+  .input__btn_width {
+    right: 5px;
+    width: 72px;
+    font-size: 14px;
+    bottom: 138px;
+  }
+  .input-width input {
+    width: 98%;
+  }
+  .footer__left-wrapper {
+    font-size: 10px;
+  }
+  .footer__links a {
+    font-size: 11px;
+  }
+  .footer__social-links {
+    width: 146px;
+
+    a {
+      img {
+        width: 17px;
+      }
+    }
+  }
+  .footer__wrapper-bottom {
+    width: 45%;
+    font-size: 10px;
+    bottom: 16px;
+    position: relative;
+    img {
+      width: 13px;
+    }
+  }
+  .footer__left-wrapper {
+    column-gap: 6px;
+  }
+  .statistic__wrapper {
+    width: 80%;
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+  }
+  .footer__links-title {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 350px) {
+  .container {
+    overflow: hidden;
+    padding-bottom: 30px;
+  }
+}

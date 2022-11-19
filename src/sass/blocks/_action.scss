@@ -1,0 +1,39 @@
+.action {
+  img {
+    padding-top: 56px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  &__see {
+    display: block;
+    background: $accentColor;
+    border-radius: 8px;
+    margin-top: -30px;
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    outline: none;
+    &:focus {
+
+      outline: none;
+    }
+    &:hover {
+      background: $textColor;
+    }
+  }
+}
+
+.top__bottom-wrapper_color {
+  padding-top: 34px;
+  margin: 0 auto;
+  color: black;
+  justify-content: center;
+  .separator_color {
+    background: black;
+    top: 0;
+  }
+}

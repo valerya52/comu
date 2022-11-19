@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Started develop mobile version" />
+    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Develop mobile version">
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_action.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_app-btns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_benefits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_describe.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_questions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_slogan.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/blocks/_statistic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
+    </list>
     <list id="9c968726-4f8f-4717-8ef5-bf0f3cf15bb4" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +87,7 @@
       <workItem from="1668590827530" duration="5213000" />
       <workItem from="1668634051612" duration="5146000" />
       <workItem from="1668809933293" duration="24515000" />
+      <workItem from="1668834738715" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="change index.html">
       <created>1667877928913</created>
@@ -107,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668484822969</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Develop mobile version">
+      <created>1668834781174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668834781174</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +152,7 @@
     <MESSAGE value="change index.html" />
     <MESSAGE value="Added blocks &quot;Header&quot;, &quot;Cards&quot;, &quot;Benefits&quot;, &quot;Describe&quot;, &quot;Slogan&quot;" />
     <MESSAGE value="Added new blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new blocks" />
+    <MESSAGE value="Develop mobile version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Develop mobile version" />
   </component>
 </project>

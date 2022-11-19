@@ -1,0 +1,41 @@
+.describe {
+  padding-top: 115px;
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+  &__item {
+    width: 450px;
+    color: $mainColor;
+    &_size {
+      width: 500px;
+    }
+    h2 {
+      padding-top: 36px;
+      font-weight: 700;
+      font-size: 42px;
+    }
+    h5 {
+      font-weight: 700;
+      font-size: 20px;
+      color: #000000;
+      &:first-of-type {
+        padding-top: 100px;
+      }
+
+    }
+    p {
+      font-weight: 500;
+      font-size: 17px;
+    }
+  }
+  &_noads {
+    .describe__item {
+      padding-top: 40px;
+      margin-left: 60px;
+    }
+    .describe_img {
+      padding-left: 50px;
+    }
+  }
+}

@@ -1,0 +1,92 @@
+.top {
+  position: relative;
+  min-height: 100vh;
+  background: url(../../img/ractangle.png) no-repeat 50%/ cover;
+  .container {
+    padding: 33px 100px 0;
+  }
+  &__wrapper {
+    display: flex;
+    justify-content: space-around;
+  }
+  &__nav {
+    font-weight: 700;
+    margin-top: 5px;
+    ul {
+      font-size: 14px;
+      list-style: none;
+      display: flex;
+      .nav-btn {
+        border: 3px solid #FE9563;
+        border-radius: 5px;
+        position: relative;
+        top: -2px;
+      }
+      li {
+        padding: 5px 13px;
+        a {
+          color:  black;
+        }
+      }
+    }
+  }
+  &__base-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  &__img {
+    padding-top: 85px;
+    object-fit: contain;
+  }
+  &__content {
+    padding-top: 150px;
+    width: 450px;
+    h1 {
+      font-weight: 700;
+      font-size: 42px;
+      color: $mainColor;
+    }
+    p {
+      padding-top: 17px;
+      font-size: 16px;
+      color: $textColor;
+    }
+  }
+  &__btn-wrapper {
+    display: flex;
+    padding-top: 24px;
+    a {
+      text-decoration: none;
+      padding-top: 10px;
+      color: $mainColor;
+      padding-left: 10px;
+      img {
+        padding-right: 6px;
+      }
+    }
+  }
+  &__more {
+    width: 131px;
+    height: 39px;
+    background: $mainColor;
+    border: 1px solid $mainColor;
+    border-radius: 6px;
+    color: white;
+  }
+  &__bottom-wrapper {
+    p {
+      font-weight: 700;
+      font-size: 12px;
+      color: #455A64;
+    }
+    display: flex;
+    .separator {
+      position: relative;
+      top: 16px;
+      width: 2px;
+      height: 16px;
+      background: #fe9c69;
+      margin: 0 6px;
+    }
+  }
+}

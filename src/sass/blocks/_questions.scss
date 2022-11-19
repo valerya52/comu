@@ -1,0 +1,28 @@
+.questions {
+  &_title {
+    padding-top: 100px;
+  }
+  &__wrapper {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    div {
+      width: 45%;
+    }
+    h6 {
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 148.2%;
+      color: #000000;
+    }
+    p {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 126%;
+      letter-spacing: 0.03em;
+      color: #393939;
+    }
+  }
+}
