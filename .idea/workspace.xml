@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Added new blocks">
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/input.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sass/blocks/questions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/blocks/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="Started develop mobile version" />
+    <list id="9c968726-4f8f-4717-8ef5-bf0f3cf15bb4" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist/icons" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
@@ -57,6 +47,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/icons" />
+      <recent name="$PROJECT_DIR$/src/icons" />
       <recent name="$PROJECT_DIR$/dist/img" />
       <recent name="$PROJECT_DIR$/src/img" />
     </key>
@@ -65,6 +57,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4190e557-645b-44db-ab4d-748b5f129db0" name="Changes" comment="" />
+      <changelist id="9c968726-4f8f-4717-8ef5-bf0f3cf15bb4" name="New changelist" comment="" />
       <created>1667876903117</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -74,7 +67,10 @@
       <workItem from="1667927056074" duration="8440000" />
       <workItem from="1668099858074" duration="26259000" />
       <workItem from="1668434146952" duration="9834000" />
-      <workItem from="1668464382694" duration="12589000" />
+      <workItem from="1668464382694" duration="13297000" />
+      <workItem from="1668590827530" duration="5213000" />
+      <workItem from="1668634051612" duration="5146000" />
+      <workItem from="1668809933293" duration="24515000" />
     </task>
     <task id="LOCAL-00001" summary="change index.html">
       <created>1667877928913</created>
@@ -104,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668450553658</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new blocks">
+      <created>1668484822969</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668484822969</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

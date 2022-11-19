@@ -4,6 +4,7 @@
 @import "base/mixins";
 @import "node_modules/animate.css/animate";
 
+
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -12,13 +13,16 @@
 
 body {
   background: #F5F5F5;
+  position: initial;
 }
 
 .container {
   width: 1140px;
   margin: 0 auto;
-  position: relative;
+  overflow: hidden;
+  padding-bottom: 35px;
 }
+
 
 
 @import "blocks/header";
@@ -32,3 +36,4 @@ body {
 @import "blocks/questions";
 @import "blocks/input";
 @import "blocks/footer";
+@import "blocks/media";
